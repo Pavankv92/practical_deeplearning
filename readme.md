@@ -4,7 +4,7 @@
   <tr>
     <th>
       <p align="center">
-           <img src="./media/mnist.png" alt="mnist" width="60%" height="60%"></a>
+           <img src="./media/mnist.png" alt="mnist" width="100%" height="100%"></a>
            <br>MNIST classification
            <br><a href="./mnist.ipynb" name="mnist_code">(code)</a>
       </p>
@@ -16,7 +16,7 @@
         </p>
     </th>
        <th><p align="center">
-           <img src="./media/fashion_mnist_plot.png" alt="fashion_mnist" width="60%" height="60%"></a>
+           <img src="./media/fashion_mnist_plot.png" alt="fashion_mnist" width="100%" height="100%"></a>
            <br>Fashion MNIST classification
            <br><a href="" name="fmnist_code">(code)</a>
         </p>
